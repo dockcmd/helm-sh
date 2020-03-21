@@ -1,1 +1,1 @@
-github.com/dockcmd/shmod v0.0.2
+github.com/dockcmd/shmod v0.0.3
